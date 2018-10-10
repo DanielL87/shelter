@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+.image{
+  width: 400px;
+}
+body ul{
+  color: red;
+  font-size: 20px;
+}
+
+h2 {
+  color: grey;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.ralph {
+  border: 3px solid green;
+  margin: 12px;
+  padding: 5px;
+  background-color: darkblue;
+  float: left;
+}
+
+.bob {
+  border: 3px solid green;
+  margin: 12px;
+  padding: 5px;
+  background-color: darkred;
+  float: left;
+}
+
+.kaa{
+  border: 3px solid green;
+  margin: 12px;
+  padding: 5px;
+  background-color: orange;
+  float: left;
+}
+
+div ul{
+  color: white;
+}
